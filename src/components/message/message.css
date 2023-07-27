@@ -1,0 +1,11 @@
+.message__paragraph {
+	background: rgb(234, 239, 181);
+	border: 1px solid black;
+	border-radius: 15px;
+	word-wrap: break-word;
+	padding: 10px;
+	margin: 10px;
+}
+.message__user {
+	font-weight: bold;
+}
